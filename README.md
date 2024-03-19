@@ -4,13 +4,10 @@ The Assistive Listening Device is designed to aid individuals with auditory disa
 ## Technologies Used
 
 ## Implementation 
- ~~Audio Collection:-~~ Audio is captured using an IM69DI30 microphone.
-### Audio Processing 
-The captured audio is processed using python on a Raspberry Pi3.
-### Noise cancellation and frequency boosting
-The processed audio undergoes noise cancellation and frequency boosting algorithms implemented using Python libraries such as pywavelets,numpy and scipy.
-### Wireless Transmission
-The processed audio is wirelessly transmitted to the in-ear speaker for playback.
+ **Audio Collection:-**Audio is captured using an IM69DI30 microphone.
+**Audio Processing:-**The captured audio is processed using python on a Raspberry Pi3.
+**Noise cancellation and frequency boosting:-** The processed audio undergoes noise cancellation and frequency boosting algorithms implemented using Python libraries such as pywavelets,numpy and scipy.
+**Wireless Transmission:-** The processed audio is wirelessly transmitted to the in-ear speaker for playback.
 ## Future Plan
 
 
