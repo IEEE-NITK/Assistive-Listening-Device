@@ -4,7 +4,7 @@ The Assistive Listening Device is designed to aid individuals with auditory disa
 ## Technologies Used
 
 ## Implementation 
- **Audio Collection:-**\n
+ **Audio Collection:-**
 Audio is captured using an IM69DI30 microphone.
 
 **Audio Processing:-**
