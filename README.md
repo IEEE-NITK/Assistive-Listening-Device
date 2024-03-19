@@ -4,7 +4,7 @@ The Assistive Listening Device is designed to aid individuals with auditory disa
 ## Technologies Used
 
 ## Implementation 
- **Audio Collection:-**
+ **Audio Collection:-**\n
 Audio is captured using an IM69DI30 microphone.
 **Audio Processing:-**
 The captured audio is processed using python on a Raspberry Pi3.
