@@ -2,6 +2,7 @@
 
 
 # Assistive Listening Device
+Chandan Padmashali, Omkar Patil, Shubham Swadi, Aniruddh Kamath, Madhav Kedia 
 
 ## Project Overview
 
