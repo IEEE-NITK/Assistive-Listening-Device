@@ -1,21 +1,5 @@
-layout: post
-
-title: "Assistive Listening Device"
-
-description: The Assistive Listening Device is designed to aid individuals with auditory disabilities by canceling external noise and boosting frequencies associated 
-with hearing loss. This project utilizes MEMS microphone technology along with Raspberry Pi for audio processing and transmission to an in-ear speaker.
-
-categories: IEEE Diode
-
-thumbnail: "<thumbnail>.jpg"
-
-year: 2024
-
-gmeet: ""
 
 
-
----
 
 # Assistive Listening Device
 
