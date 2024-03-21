@@ -2,12 +2,14 @@
 
 
 # Assistive Listening Device
-Chandan Padmashali, Omkar Patil, Shubham Swadi, Aniruddh Kamath, Madhav Kedia 
 
 ## Project Overview
 
-The Assistive Listening Device is designed to aid individuals with auditory disabilities by canceling external noise and boosting frequencies associated with
- hearing loss. This project utilizes MEMS microphone technology along with Raspberry Pi for audio processing and transmission to an in-ear speaker.
+The Assistive Listening Device is designed to aid individuals with auditory disabilities by canceling external noise and boosting frequencies associated with 
+hearing loss. This project utilizes MEMS microphone technology along with Raspberry Pi for audio processing and transmission to an in-ear speaker.
+
+## Introduction
+
 
 ## Implementation
 
@@ -80,6 +82,16 @@ external noise and boosting frequencies. This demonstrates a promising solution 
  impairments.
 
 ## References
+
+
+## Project Mentors
+1. [Chandan Padmashali](https://github.com/CHANDAN-2003)
+2. [Omkar Patil](https://github.com/Omi729)
+3. [Shubham Swadi](https://github.com/shubham-swadi)
+
+## Project Mentees
+1. Aniruddh Kamath
+2. [Madhav Kedia](https://github.com/madhavkedia018)
 
 
 
