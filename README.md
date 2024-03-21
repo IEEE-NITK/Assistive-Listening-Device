@@ -11,6 +11,10 @@ hearing loss. This project utilizes MEMS microphone technology along with Raspbe
 ## Introduction
 
 
+## Technologies Used
+[![Tech_Used](https://skills.thijs.gg/icons?i=py,raspberrypi&theme=dark)](https://skills.thijs.gg)
+
+
 ## Implementation
 
 The implementation of the Assistive Listening Device involves the following steps:
